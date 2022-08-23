@@ -1,0 +1,2 @@
+# fullTxt
+Support of Learning
